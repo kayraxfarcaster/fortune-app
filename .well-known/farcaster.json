@@ -1,7 +1,13 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjQzNzY0OSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDhCZWE4OEEzMTBFMjU5NDlGOWUxMDgxNTAwNENGZjRGMzU4NzBkOTkifQ",
+    "payload": "eyJkb21haW4iOiJmb3J0dW5lLWFwcC10YXUudmVyY2VsLmFwcCJ9",
+    "signature": "1gDaUD8H5DUlVHqBVmhWgz+u9Ijt35xPm/h4Tx95tNgZRyVRipCRm7zILf1dJz96rE9LCumYstalZoUX41TKNhs="
+  },
   "frame": {
     "version": "1",
     "name": "Daily Fortune",
+    "iconUrl": "https://fortune-app-tau.vercel.app/icon.png",
     "homeUrl": "https://fortune-app-tau.vercel.app",
     "buttonTitle": "Read My Fortune ✦",
     "splashBackgroundColor": "#06030d"
