@@ -2,7 +2,7 @@
   "frame": {
     "version": "1",
     "name": "Daily Fortune",
-    "homeUrl": "https://fortune-app-tau.vercel.app/fortune-app.html",
+    "homeUrl": "https://fortune-app-tau.vercel.app",
     "buttonTitle": "Read My Fortune ✦",
     "splashBackgroundColor": "#06030d"
   }
