@@ -9,7 +9,9 @@
     "name": "Daily Fortune",
     "iconUrl": "https://fortune-app-tau.vercel.app/icon.png",
     "homeUrl": "https://fortune-app-tau.vercel.app",
+    "imageUrl": "https://fortune-app-tau.vercel.app/splash.png",
     "buttonTitle": "Read My Fortune ✦",
+    "splashImageUrl": "https://fortune-app-tau.vercel.app/splash.png",
     "splashBackgroundColor": "#06030d"
   }
 }
